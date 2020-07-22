@@ -1,4 +1,5 @@
 html, body{
+    scroll-behavior: smooth;
     box-sizing: border-box;
     font-family: 'Manrope',sans-serif;
     color: gray;
@@ -61,6 +62,29 @@ footer{
     min-height: 80%;
     text-align: center;
 }
-.intro{
-    text-align: center;
+#section1{
+    margin-top: 10px;
+    height: 600px;
+    background: blue;
+
+}
+#section2{
+    height: 600px;
+    background: burlywood;
+
+}
+#section3{
+    hheight: 600px;
+    background: rgb(166, 166, 173);
+
+}
+#section4{
+    height: 600px;
+    background: rgb(51, 29, 39);
+
+}
+#section5{
+    height: 600px;
+    background: rgb(174, 194, 85);
+
 }
